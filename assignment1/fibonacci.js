@@ -19,4 +19,4 @@ function fibonacci(n) {
 
 console.log(fibonacci(-2)); //returns Please enter a valid number(greater than 0, not decimals , not letters or not special characters ).
 
-console.log(fibonacci(19)); // returns [0, 1, 1,  2, 3, 5, 8, 13]
+console.log(fibonacci(9)); // returns [0, 1, 1,  2, 3, 5, 8, 13]
